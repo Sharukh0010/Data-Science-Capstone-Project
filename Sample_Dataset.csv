@@ -1,0 +1,21 @@
+Car_Brand,Car_Name,Year,Selling_Price,Km_Driven,Fuel,Seller_Type,Transmission,Owner
+Hyundai,i20,2015,525000,70378,Petrol,Dealer,Manual,First Owner
+Hyundai,Santro,2012,300000,50000,Petrol,Individual,Manual,First Owner
+Honda,City,2011,310000,110000,Petrol,Individual,Manual,First Owner
+Chevrolet,Spark,2009,70000,60000,Petrol,Individual,Manual,Third Owner
+Maruti,Swift,2015,415000,28217,Petrol,Trustmark Dealer,Manual,First Owner
+Renault,Koleos,2012,750000,80000,Diesel,Individual,Automatic,Second Owner
+Datsun,RediGO,2017,200000,30000,Petrol,Individual,Manual,First Owner
+Hyundai,Verna,2012,600000,100000,Diesel,Individual,Manual,First Owner
+Mahindra,Scorpio,2016,1025000,70000,Diesel,Individual,Manual,First Owner
+Hyundai,Santro,2006,145000,66000,Petrol,Individual,Automatic,Second Owner
+Maruti,800,2004,80000,60000,Petrol,Individual,Manual,Second Owner
+Hyundai,Santro,2003,85000,110000,Petrol,Individual,Manual,Second Owner
+Tata,Hexa,2017,1200000,50000,Diesel,Individual,Automatic,First Owner
+Maruti,Swift,2015,350000,90000,Diesel,Individual,Manual,First Owner
+Maruti,Alto,2017,320000,50000,Petrol,Individual,Manual,Second Owner
+Tata,New,2010,210000,34500,Diesel,Individual,Manual,First Owner
+Maruti,Eeco,2019,470000,10000,CNG,Individual,Manual,First Owner
+Tata,Safari,2018,1085000,15000,Diesel,Individual,Manual,First Owner
+Tata,Altroz,2020,500000,5000,Petrol,Individual,Manual,First Owner
+Chevrolet,Cruze,2015,650000,50000,Diesel,Individual,Automatic,First Owner
